@@ -14,14 +14,14 @@ Awesome list of React headless user interface component libraries!
 </details>
 
 <details>
-    <summary><a href="https://ark-ui.com/">Aui UI</a> - Ark UI is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.</summary>
+    <summary><a href="https://ark-ui.com/">Ark UI</a> - Ark UI is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=chakra-ui&repo=ark)](https://github.com/chakra-ui/ark)
 </details>
 
 
 <details>
-    <summary><a href="https://mui.com/base-ui/">Base UI</a> - Base UI is a library of headless ("unstyled") React components and low-level hooks. You gain complete control over your app's CSS and accessibility features.</summary>
+    <summary><a href="https://base-ui.com/">Base UI</a> - Base UI is a library of headless ("unstyled") React components and low-level hooks. You gain complete control over your app's CSS and accessibility features.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=mui&repo=base-ui)](https://github.com/mui/base-ui)
 </details>
@@ -105,24 +105,24 @@ Awesome list of React headless user interface component libraries!
 ---
 
 <details>
-    <summary><a href="https://mui.com/base-ui/">Base UI</a> - Base UI is a library of headless ("unstyled") React components and low-level hooks. You gain complete control over your app's CSS and accessibility features.</summary>
+    <summary><a href="https://base-ui.com/">Base UI</a> - Base UI is a library of headless ("unstyled") React components and low-level hooks. You gain complete control over your app's CSS and accessibility features.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=mui&repo=base-ui)](https://github.com/mui/base-ui)
 </details>
 
 <div float="left">
   <img alt="Github stars" src="https://img.shields.io/github/stars/mui/base-ui?style=flat&logo=github&color=blue" />
-  <img alt="Downloads per month" src="https://img.shields.io/npm/dm/@mui/base?style=flat&logo=npm&color=blue" />
-  <img alt="Downloads per year" src="https://img.shields.io/npm/dy/@mui/base?style=flat&logo=npm&color=blue" />
+  <img alt="Downloads per month" src="https://img.shields.io/npm/dm/@base-ui-components?style=flat&logo=npm&color=blue" />
+  <img alt="Downloads per year" src="https://img.shields.io/npm/dy/@base-ui-components?style=flat&logo=npm&color=blue" />
   <img alt="Commits per year" src="https://img.shields.io/github/commit-activity/y/mui/base-ui?style=flat&logo=github&color=blue" />
   <img alt="Created at" src="https://img.shields.io/github/created-at/mui/base-ui?style=flat&logoColor=github&color=blue" />
   <img alt="Github discussions" src="https://img.shields.io/github/discussions/mui/base-ui?style=flat&logo=github&color=blue" />
   <img alt="Github Issues" src="https://img.shields.io/github/issues/mui/base-ui?style=flat&logo=github&color=blue" />
-  <img alt="Bundle size min" src="https://img.shields.io/bundlephobia/min/@mui/base?style=flat&color=blue" />
-  <img alt="Bundle size minzip" src="https://img.shields.io/bundlephobia/minzip/@mui/base?style=flat&color=blue" />
-  <img alt="Version" src="https://img.shields.io/npm/v/@mui/base?style=flat&color=blue&logo=npm" />
+  <img alt="Bundle size min" src="https://img.shields.io/bundlephobia/min/@base-ui-components/react?style=flat&color=blue" />
+  <img alt="Bundle size minzip" src="https://img.shields.io/bundlephobia/minzip/@base-ui-components/react?style=flat&color=blue" />
+  <img alt="Version" src="https://img.shields.io/npm/v/@base-ui-components/react?style=flat&color=blue&logo=npm" />
   <img alt="Language " src="https://img.shields.io/github/languages/top/mui/base-ui?style=flat&color=blue" />
-  <img alt="Types" src="https://img.shields.io/npm/types/@mui/base?style=flat&color=blue&logo=npm" />
+  <img alt="Types" src="https://img.shields.io/npm/types/@base-ui-components/react?style=flat&color=blue&logo=npm" />
 </div>
 
 ---
@@ -228,7 +228,7 @@ Awesome list of React headless user interface component libraries!
 |-------------|--------------|-------------------------------|---------------|--------------------|
 | **Ariakit** | ![GitHub Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/%40ariakit%2Freact?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/%40ariakit%2Freact?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/ariakit/ariakit?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/ariakit/ariakit?style=flat&logo=github&color=blue) |
 | **Ark UI** | ![GitHub Stars](https://img.shields.io/github/stars/chakra-ui/ark?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/%40ark-ui%2Freact?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/%40ark-ui%2Freact?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/chakra-ui/ark?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/chakra-ui/ark?style=flat&logo=github&color=blue) |
-| **Base UI** | ![GitHub Stars](https://img.shields.io/github/stars/mui/base-ui?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/@mui/base?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/@mui/base?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/mui/base-ui?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/mui/base-ui?style=flat&logo=github&color=blue) |
+| **Base UI** | ![GitHub Stars](https://img.shields.io/github/stars/mui/base-ui?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/@base-ui-components?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/@base-ui-components?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/mui/base-ui?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/mui/base-ui?style=flat&logo=github&color=blue) |
 | **Floating UI** | ![GitHub Stars](https://img.shields.io/github/stars/floating-ui/floating-ui?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/%40floating-ui%2Freact?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/%40floating-ui%2Freact?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/floating-ui/floating-ui?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/floating-ui/floating-ui?style=flat&logo=github&color=blue) |
 | **Headless UI** | ![GitHub Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/%40headlessui%2Freact?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/%40headlessui%2Freact?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/tailwindlabs/headlessui?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/tailwindlabs/headlessui?style=flat&logo=github&color=blue) |
 | **Radix UI** | ![GitHub Stars](https://img.shields.io/github/stars/radix-ui/primitives?style=flat&logo=github&color=blue) | ![Monthly](https://img.shields.io/npm/dm/%40radix-ui%2Freact-accordion?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/%40radix-ui%2Freact-accordion?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/radix-ui/primitives?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/radix-ui/primitives?style=flat&logo=github&color=blue) |
